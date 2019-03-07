@@ -1,0 +1,9 @@
+.textarea:not([rows]) {
+  max-height: 600px;
+  min-height: 350px;
+}
+
+.button {
+  margin-bottom: 15px;
+  margin-right: 5px;
+}
