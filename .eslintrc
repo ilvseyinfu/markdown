@@ -1,0 +1,6 @@
+{
+  "extends": "bcd-react",
+  "rules": {
+    "no-mixed-operators": 0
+  }
+}
